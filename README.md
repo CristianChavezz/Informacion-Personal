@@ -25,7 +25,7 @@ Desde pequeño me encanta todo lo relacionado a la informatica, hace un año des
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NMAP-E95626?style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -36,9 +36,8 @@ Desde pequeño me encanta todo lo relacionado a la informatica, hace un año des
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4B367C?style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certificaciones
@@ -49,6 +48,5 @@ Desde pequeño me encanta todo lo relacionado a la informatica, hace un año des
 </div>
 
 ## Proyectos
-- Detection Lab
-- SOC Automation Project
+Aun nada
 
