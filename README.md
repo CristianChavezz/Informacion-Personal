@@ -1,5 +1,5 @@
 # Hola! Bienvenido/a!!
-Soy estudiante de la carrera de Ciberseguridad en la universidad del Gran Rosario con un gran interes en la protección de los activos digitales y en resolver problemas.
+Soy estudiante de la carrera de Ciberseguridad en la universidad del Gran Rosario con un gran interés en la protección de los activos digitales y en resolver problemas.
 
 Por si me quieren conocer más, les dejo mis redes a continuación:
 
