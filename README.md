@@ -7,7 +7,7 @@ Por si me quieren conocer más, les dejo mis redes a continuación:
 <a href="https://www.instagram.com/cristiaan_chavezz/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ## Objetivo
-Desde pequeño me encanta todo lo relacionado a la informatica, hace un año descubri que es la ciberseguridad y me llevo a desarrollar una pasion por ella. Mi objetivo actualmente es poder incorporarme a un Centro de Operaciones de Seguridad (SOC) como Analista de nivel 1.
+Desde pequeño me encanta todo lo relacionado a la informatica, hace un año descubrí que es la ciberseguridad y me llevó a desarrollar una pasión por ella. Mi objetivo actualmente es poder incorporarme a un Centro de Operaciones de Seguridad (SOC) como Analista de nivel 1.
 
 ## Habilidades
 
