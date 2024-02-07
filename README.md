@@ -43,7 +43,9 @@ Desde pequeño me encanta todo lo relacionado a la informatica, hace un año des
 
 ## Certificaciones
 <div>
-<img src="https://img.shields.io/badge/-Cybersecurity Professional Certificate-0056D2?style=for-the-badge(https://www.coursera.org/account/accomplishments/specialization/certificate/G7AMW7LA726G)/)" />
+<img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certificate-0056D2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Tecnico%20en%20Ciberseguridad-8A2BE2?style=for-the-badge" />
+
 </div>
 
 ## Proyectos
