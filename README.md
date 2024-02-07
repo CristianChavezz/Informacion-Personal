@@ -43,11 +43,7 @@ Desde pequeño me encanta todo lo relacionado a la informatica, hace un año des
 
 ## Certificaciones
 <div>
-<img src="https://img.shields.io/badge/-Cybersecurity Professional Certificate-0056D2?style=for-the-badge)(https://www.coursera.org/account/accomplishments/specialization/certificate/G7AMW7LA726G)/)" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity Professional Certificate-0056D2?style=for-the-badge(https://www.coursera.org/account/accomplishments/specialization/certificate/G7AMW7LA726G)/)" />
 </div>
 
 ## Proyectos
