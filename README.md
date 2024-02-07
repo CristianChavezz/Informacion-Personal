@@ -11,7 +11,7 @@ Desde pequeño me encanta todo lo relacionado a la informatica, hace un año des
 
 ## Habilidades
 
-| Skill                                         | Proyecto asociado          |
+| Habilidades técnicas                          | Proyecto asociado          |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
