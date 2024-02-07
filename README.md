@@ -45,7 +45,7 @@ Desde pequeño me encanta todo lo relacionado a la informatica, hace un año des
 <div>
 <img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certificate-0056D2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Tecnico%20en%20Ciberseguridad-8A2BE2?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/-Bootcamp%20Analista%20SOC%20Nivel%201-800080?style=for-the-badge&logoColor=white" />
 </div>
 
 ## Proyectos
