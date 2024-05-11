@@ -13,7 +13,7 @@ Desde pequeño me encanta todo lo relacionado a la informatica, hace un año des
 
 | Habilidades técnicas                          | Proyecto asociado          |
 |-----------------------------------------------|----------------------------|
-| Analisis y Respuesta ante Alertas de seguridad | <a href="https://google.com">Detection Lab</a>|
+| Analisis y Respuesta ante Alertas de seguridad | <a href="https://google.com](https://github.com/CristianChavezz/Alertas-LETS-DEFEND">Alertas-Writeups</a>|
 | SIEM Implementation and Log Analysi          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
